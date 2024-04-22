@@ -1,0 +1,23 @@
+print("Bienvenido al mundo de la progamación!")
+print("Para comenzar, ingresa tu nombre: ")
+nom = input()
+print("Bienvenido", nom)
+
+print("Ingrese el numero equivalente a X para solucionar la siguiente ecuación: x2 + 3x +1 / 4")
+num = int(input())
+resultadoEq = ((num**2) + 3 * num + 1 ) / 4
+print("El resultado de la ecuación es", resultadoEq)
+
+nombre = input("Ingrese su nombre y apellido: ")
+
+rut = int(input("Ingrese su rut: "))
+
+correo = input("Ingrese su correo: ")
+
+telef = int(input("Ingrese su numero de telefono: "))
+nombre_upper = nombre.upper()
+correo_upper = correo.upper()
+print("NOMBRE:\t\t", nombre_upper)
+print("RUT:\t\t", rut) 
+print("CORREO:\t\t", correo_upper)
+print("TELEFONO:\t\t", telef)
