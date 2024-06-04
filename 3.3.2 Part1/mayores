@@ -1,0 +1,12 @@
+[
+ {
+  "Nombre": "Maria",
+  "Edad": 30,
+  "Comuna": "Concepcion"
+ },
+ {
+  "Nombre": "Estela",
+  "Edad": 25,
+  "Comuna": "Puerto Montt"
+ }
+]
